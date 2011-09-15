@@ -1,0 +1,299 @@
+Statistic
+=========
+14850 POMs analyzed
+
+no license definition in 9144 POMs
+one or more license definition in 5706 POMs
+
+Names
+------
+    52x 2-clause BSD license
+     1x All files contained in this JAR are licensed under the Apache          2.0 license, unless noted differently in their source (see          swing2swt).
+   150x Apache 2
+    14x Apache 2.0
+    15x Apache 2.0 License
+    42x Apache License
+     8x Apache License 2
+    15x Apache License 2.0
+     3x Apache License v2.0
+     5x Apache License Version 1.1
+     2x Apache License Version 2
+   114x Apache License Version 2.0
+   118x Apache License, Version 2.0
+    83x Apache Public License 2.0
+     4x Apache Software License
+   246x Apache Software License - Version 2.0
+     9x Apache Software License 2.0
+     2x Apache Software License, 2.0
+     5x Apache Software License, Version 1.1
+     3x Apache Software Licenses
+     1x Apache-style license
+     3x Artistic License
+     4x ASF
+     3x ASF 2.0
+     1x BEA JSR 173 Spec
+    14x Bouncy Castle Licence
+     8x Bouncy Castle License
+   149x BSD
+     4x BSD licence
+   327x BSD License
+    21x BSD style
+     4x BSD style license
+     8x BSD-style license
+    50x CDDL
+     6x CDDL + GPLv2 with classpath exception
+    36x CDDL 1.0
+    29x CDDL 1.1
+    11x CDDL license
+     2x CDDL or GPL 2 with Classpath Exception
+     6x CDDL v1.0 / GPL v2 dual license
+    34x CDDL+GPL License
+     1x CDDL+GPLv2
+     1x CDDL, v1.0
+     4x Common Development and Distribution License
+     2x COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) plus GPL
+     9x Common Development and Distribution License (CDDL) v1.0
+    37x COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+     2x Common Public License - v 1.0
+     1x Common Public License v1.0
+    18x Common Public License Version 1.0
+     1x Copyright (c) Atlassian. All rights reserved
+     2x CPL
+     1x Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 License
+     3x Creative Commons GNU LGPL, Version 2.1
+     1x Day Specification License
+     1x Day Specification License addendum
+     8x Eclipse Public License
+   148x Eclipse Public License - v 1.0
+   246x Eclipse Public License - Version 1.0
+     2x Eclipse Public License v1.0
+    41x Eclipse Public License, Version 1.0
+    24x GNU Affero General Public License
+     3x GNU General Public Library
+    55x GNU General Public License
+     2x GNU General Public License Version 2
+     1x GNU General Public License, version 2
+    15x GNU Lesser General Public Licence
+   134x GNU Lesser General Public License
+    28x GNU Lesser General Public License (LGPL), v.3
+    13x GNU Lesser General Public License (LGPL), Version 2.1
+     2x GNU Lesser General Public License Version 2.1
+     1x GNU Lesser General Public License Version 2.1, February 1999
+     4x GNU Lesser General Public License, 2.1
+     5x GNU Lesser General Public License, version 2.1
+     1x GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
+     8x GNU Lesser Public License
+    95x GNU LGPL 3
+     1x GNU Library or Lesser General Public License
+     3x GNU Library or Lesser General Public License (LGPL)
+     6x Google Web Toolkit Terms
+     9x GPL
+     6x GPL License
+    40x GPL2 w/ CPE
+     1x GPLv2 with classpath exception
+    10x GPLv2+CE
+     2x hsqldb
+     4x HSQLDB License
+     1x HSQLDB License, a BSD open source license
+     2x iCal4j - License
+     3x ICU License
+     3x Indiana University Extreme! Lab Software License, vesion 1.1.1
+     1x Jason Hunter License
+     5x Java HTML Tidy License
+     1x JDL (Java Distribution License)
+     1x Jython Software License
+     6x Lesser General Public License (LGPL)
+     5x Lesser General Public License (LGPL) v 3.0
+     1x Lesser GNU Public License
+    15x LGPL
+    68x LGPL 2.1
+    11x LGPL license
+     2x LGPL v.3
+     1x LGPL, v2.1 or later
+     1x MIT
+    51x MIT License
+     1x Mockrunner License, based on Apache Software License, version         1.1
+    10x Mozilla Public License
+     1x Mozilla Public License 1.1 (MPL 1.1)
+    10x Mozilla Public License version 1.1
+     6x MPL 1.1
+     1x New BSD License
+     3x OGC copyright
+     2x OpenSymphony (Apache 2)
+     3x Oracle Technology Network Development and Distribution License Terms
+     2x provided without support or warranty
+    11x Public Domain
+     1x Public domain, Sun Microsoystems
+     5x Sun Microsystems, Inc. Binary Code License Agreement
+     1x Sun Public License
+     1x Tanuki Software license
+     4x Terracotta Public License
+     2x The Apache Software License, Version 1.1
+  2797x The Apache Software License, Version 2.0
+    11x The BSD License
+     9x The GNU General Public License, Version 2
+     1x The GNU Lesser General Public License, Version 3.0
+     1x The GSBase Software License
+     5x The H2 License, Version 1.0
+     2x The HtmlUnit Software License
+   121x The MIT license
+     1x The OpenLDAP Public License
+     7x The OpenSymphony Software License 1.1
+     1x The P6Spy Software License, Version 1.1
+     1x The TMate Open Source License
+     1x The W3C Software License
+     7x This material is licensed under the Apache Software License, Version 2.0
+
+URLs
+------
+     1x ${basedir}/src/resources/LICENSE.txt
+     5x ${maven.license.file}
+     6x ${topDirectoryLocation}/LICENSE.txt
+    13x ../LICENSE.txt
+     1x ../src/resources/LICENSE.txt
+    63x /LICENSE.txt
+     1x >http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html
+     3x http://antlr.org/license.html
+    17x http://apache.org/licenses/LICENSE-2.0
+    13x http://asm.objectweb.org/license.html
+    10x http://code.google.com/p/mockito/wiki/License
+     6x http://code.google.com/webtoolkit/terms.html
+     1x http://codemirror.net/LICENSE
+     4x http://confluence.highsource.org/display/ANX/License
+    10x http://confluence.highsource.org/display/HJ3/License
+    12x http://confluence.highsource.org/display/J2B/License
+     8x http://confluence.highsource.org/display/MJIIP/License
+     1x http://creativecommons.org/licenses/by-nc-nd/2.5/
+     3x http://creativecommons.org/licenses/LGPL/2.1/
+     8x http://creativecommons.org/licenses/publicdomain
+     3x http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/*checkout*/jboss/javassist/License.html?rev=HEAD&content-type=text/html
+     1x http://cvs.sourceforge.net/viewcvs.py/*checkout*/p6spy/p6spy/license.txt?rev=HEAD
+     1x http://developer.yahoo.com/yui/license.html
+     4x http://edireader.sourceforge.net/GPL-License.html
+    21x http://ehcache.sourceforge.net/LICENSE.txt
+     2x http://freemarker.org/docs/app_license.html
+     1x http://freemarker.org/LICENSE.txt
+     8x http://glassfish.java.net/public/CDDL+GPL_1_1.html
+     1x http://gsbase.sourceforge.net/license.html
+     5x http://h2database.com/html/license.html
+     5x http://hsqldb.org/web/hsqlLicense.html
+     2x http://htmlunit.sourceforge.net/license.html
+     5x http://httpunit.sourceforge.net/doc/license.html
+    10x http://jasperreports.sourceforge.net/license.html
+     3x http://java.sun.com/products/java-media/jai/downloads/download-1_1_2_01.html
+     2x http://java.sun.com/products/java-media/jai/downloads/download-iio-1_0_01.htm
+     1x http://jconfig.cvs.sourceforge.net/*checkout*/jconfig/jConfig/jConfig/BSD_license.txt?revision=1.1
+     2x http://jdbc.postgresql.org/license.html
+     3x http://jenkins-ci.org/mit-license
+     1x http://jgrapht.sourceforge.net/LGPL.html
+     2x http://jscience.org/doc/license.txt
+     1x http://jsoup.com/license
+     1x http://jtidy.svn.sourceforge.net/viewvc/jtidy/trunk/jtidy/LICENSE.txt?revision=95
+     1x http://mockrunner.sourceforge.net/LICENSE.txt
+     1x http://objenesis.googlecode.com/svn/docs/license.html
+    26x http://opensource.org/licenses/mit-license.php
+     2x http://opensymphony.com/webwork/license.action
+     2x http://opensymphony.com/xwork/license.action
+     2x http://repository.jboss.com/licenses/hsqldb.txt
+    15x http://repository.jboss.com/licenses/lgpl.txt
+    12x http://repository.jboss.org/licenses/lgpl-2.1.txt
+     2x http://retrotranslator.sourceforge.net/LICENSE.txt
+     1x http://retroweaver.sourceforge.net/guide/retroweaver-guide.html
+     1x http://source.icu-project.org/repos/icu/icu/trunk/license.html
+     6x http://sqljet.com/
+     3x http://svn.codehaus.org/mojo/trunk/mojo/appassembler/LICENSE.txt
+     2x http://svn.opensymphony.com/svn/oscore/trunk/LICENSE.txt
+     4x http://svn.sourceforge.net/viewvc/*checkout*/jtidy/trunk/jtidy/LICENSE.txt?revision=95
+    21x http://svnkit.com/license.html
+     2x http://sxc.codehaus.org/License
+     1x http://wrapper.tanukisoftware.org/doc/english/license.html
+     2x http://www-128.ibm.com/developerworks/library/os-cpl.html
+     2x http://www-306.ibm.com/software/globalization/icu/license.jsp
+     2x http://www.antlr.org/license.html
+     2x http://www.antlr.org/LICENSE.txt
+     4x http://www.apache.org/licenses/
+    12x http://www.apache.org/licenses/LICENSE-1.1
+   548x http://www.apache.org/licenses/LICENSE-2.0
+    29x http://www.apache.org/licenses/LICENSE-2.0.html
+  2900x http://www.apache.org/licenses/LICENSE-2.0.txt
+     1x http://www.atlassian.com/about/licensing/license.jsp
+    22x http://www.bouncycastle.org/licence.html
+     2x http://www.cenqua.com/clover/license.html
+     1x http://www.day.com/maven/jsr170/jars/LICENSE.txt
+     1x http://www.day.com/maven/jsr170/licenses/day-spec-license.htm
+     7x http://www.easymock.org/License.html
+     1x http://www.eclipse.org/legal/cpl-v10.html
+    56x http://www.eclipse.org/legal/epl-v10.html
+   141x http://www.eclipse.org/org/documents/epl-v10.html
+   248x http://www.eclipse.org/org/documents/epl-v10.php
+     3x http://www.extreme.indiana.edu/viewcvs/~checkout~/XPP3/java/LICENSE.txt
+     3x http://www.freemarker.org/LICENSE.txt
+     1x http://www.fsf.org/licensing/licenses/lgpl.html
+    13x http://www.fsf.org/licensing/licenses/lgpl.txt
+     3x http://www.ganymed.ethz.ch/ssh2/LICENSE.txt
+     2x http://www.gnu.org/copyleft/gpl.html
+    14x http://www.gnu.org/copyleft/lesser.html
+     5x http://www.gnu.org/copyleft/lesser.txt
+    24x http://www.gnu.org/licenses/agpl.txt
+    72x http://www.gnu.org/licenses/gpl.txt
+   103x http://www.gnu.org/licenses/lgpl-2.1.html
+     1x http://www.gnu.org/licenses/lgpl-3.0.html
+     1x http://www.gnu.org/licenses/lgpl-3.0.txt
+    83x http://www.gnu.org/licenses/lgpl.html
+   213x http://www.gnu.org/licenses/lgpl.txt
+     1x http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+     1x http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+    14x http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+     1x http://www.gnu.org/software/classpath/license.html
+     1x http://www.ibiblio.org/maven2/javax/xml/jsr173/1.0/jsr173-1.0-license.txt
+     6x http://www.jcraft.com/jsch/LICENSE.txt
+     4x http://www.jmock.org/license.html
+     2x http://www.json.org/license.html
+     1x http://www.jython.org/Project/license.html
+    24x http://www.mozilla.org/MPL/MPL-1.1.html
+     1x http://www.netbeans.org/about/legal/spl.html
+     2x http://www.netbeans.org/cddl-gplv2.html
+     4x http://www.netbeans.org/cddl.txt
+     1x http://www.openldap.org/software/release/license.html
+     1x http://www.opensource.org/licenses/apache2.0.php
+     6x http://www.opensource.org/licenses/bsd-license.html
+    74x http://www.opensource.org/licenses/bsd-license.php
+    34x http://www.opensource.org/licenses/cddl1.php
+     2x http://www.opensource.org/licenses/cddl1.txt
+    20x http://www.opensource.org/licenses/cpl1.0.txt
+    15x http://www.opensource.org/licenses/lgpl-license.php
+   176x http://www.opensource.org/licenses/mit-license.php
+     1x http://www.opensymphony.com/sitemesh/license.action
+     3x http://www.oracle.com/technology/software/htdocs/distlic.html
+     1x http://www.servlets.com/cos/license.html
+     1x http://www.stringtemplate.org/license.html
+    10x http://www.sun.com/cddl
+     1x http://www.sun.com/cddl/
+    22x http://www.sun.com/cddl/cddl.html
+     4x http://www.terracotta.org/legal/terracotta-public-license
+     2x http://www.trilead.com/Products/Trilead_SSH_for_Java/License/
+     1x http://www.w3.org/Consortium/Legal/copyright-software-19980720
+     1x http://www.wutka.com/dtdparserasllicense.html
+     1x http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt
+     3x http://xmlunit.svn.sourceforge.net/viewvc/*checkout*/xmlunit/trunk/xmlunit/LICENSE.txt
+    16x http://xstream.codehaus.com/license.html
+     3x https://geoapi.svn.sourceforge.net/svnroot/geoapi/trunk/LICENSE.txt
+    12x https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html
+    24x https://glassfish.dev.java.net/public/CDDL+GPL.html
+    16x https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
+    68x https://glassfish.dev.java.net/public/CDDLv1.0.html
+     5x https://glassfish.java.net/public/CDDL+GPL_1_1.html
+     1x https://jai.dev.java.net/jdl-jai.pdf
+    34x https://jersey.dev.java.net/CDDL+GPL.html
+     2x https://maven.atlassian.com/public/licenses/LICENSE-2.0.txt
+   310x https://maven.atlassian.com/public/licenses/license.txt
+     2x https://stax-utils.dev.java.net/source/browse/*checkout*/stax-utils/LICENSE
+     1x https://svn.codehaus.org/mojo/trunk/mojo/axistools-maven-plugin/LICENSE.txt
+     1x https://svn.codehaus.org/mojo/trunk/mojo/was6-maven-plugin/LICENSE.txt
+     8x https://svn.codehaus.org/picocontainer/java/picocontainer/2.x/trunk/LICENSE.txt
+     2x lgpl.txt
+     2x LICENSE
+   154x LICENSE.txt
+     2x src/assemble/EHCACHE-CORE-LICENSE.txt
+     2x src/assemble/LICENSE.txt
+     1x src/etc/LICENSE.txt
